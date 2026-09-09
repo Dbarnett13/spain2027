@@ -1,0 +1,1 @@
+Use the relocation-grad-advisor subagent to print plan/deadlines.md sorted by date with days remaining from today, and list any row whose confidence is "assumed" or "not verified" with what would confirm it.

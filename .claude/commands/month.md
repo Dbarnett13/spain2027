@@ -1,0 +1,1 @@
+Use the relocation-grad-advisor subagent to print this month's section of plan/monthly-plan.md with current statuses, plus every row in plan/deadlines.md due this month or next. Mark items overdue, due this week, or on track. Do not edit files unless a status has changed.
