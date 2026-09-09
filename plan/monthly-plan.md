@@ -11,7 +11,8 @@ Income
 
 Programs
 - [ ] Record ELISAVA's answer: 2027 intake not confirmed (received 2026-09-09).
-- [ ] Add new Barcelona options to the tracker once verified; email each school for 2027 intake status and deadline.
+- [ ] Email the seven new schools (BTS, TBS, EAE Barcelona, ESIC, IED, La Salle MSc, Comillas) for: 2027 intake deadline, syllabus with coding content, language, schedule, degree type, tuition. Due 09-30.
+- [ ] Verify each answer against the hard rules and move the program to shortlisted or eliminated.
 
 Trip
 - [ ] Fix dates and book flights. Due 09-30.
@@ -47,7 +48,12 @@ Outreach
 - [ ] Send Salesforce partner outreach. Due 10-15.
 - [ ] Hold partner meetings during the trip. Log outcomes.
 
+Kindergarten
+- [ ] Record the daughter's birth date and 2027 school year. Due 09-30.
+- [ ] Ask the Consorci d'Educacio whether the March 2027 preinscripcio can be filed from abroad. Due 10-31.
+
 Trip
+- [ ] EU Business School open day October 23, 16:00 to 18:00, if dates align.
 - [ ] Kindergarten and school visits requested. Due 10-05.
 - [ ] Agency and lawyer meetings requested. Due 10-05.
 - [ ] Itinerary and question lists. Trip minus 7 days.
@@ -125,6 +131,9 @@ Spanish
 - [ ] Phase 3: four tutor sessions per week, native media only, task-based rehearsal (apartment viewing, empadronamiento, NIE, pediatrician, school enrollment).
 
 ## March 2027
+
+Kindergarten
+- [ ] Preinscripcio 2027-28 window (assumed early March) if filing from abroad is allowed.
 
 Immigration
 - [ ] Sworn translations ordered from a MAEC-certified traductor jurado. Due 03-15.

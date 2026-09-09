@@ -28,6 +28,10 @@ Source for everything below: plan/context/2026-09-08-claude-chat-transcripts.md 
 
 - Tentative Barcelona trip in October 2026: choose a neighborhood, visit universities, visit kindergartens for the daughter, check logistics, meet relocation agencies if needed, and meet Salesforce partners based in Barcelona. Tracked in plan/trip/ and plan/outreach/.
 
+## Kindergarten (added 2026-09-09)
+
+- Daughter needs a school place for September 2027. Public and concertada preinscripcio runs in early March; out-of-period placement is available after arrival. Tracked in plan/workstreams/kindergarten.md.
+
 ## Immigration and tax decisions
 
 - Visa: Digital Nomad Visa (DNV). Main applicant on own LLC income. Spouse and child as dependents. Not a student visa. [1]
