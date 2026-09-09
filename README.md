@@ -8,6 +8,8 @@ Planning workspace for a 2027 relocation to Spain and graduate program applicati
 
 ## Layout
 
-- `plan/relocation/`: timeline, document checklist, budget
-- `plan/programs/`: one file per program plus `tracker.md`
+- `plan/profile.md`: who, target, decisions made, hard rules for programs
+- `plan/relocation/`: timeline, document checklist, budget, Spanish plan, providers, reading
+- `plan/programs/`: one file per program, `tracker.md`, `eliminated.md`
 - `plan/documents/`: drafts of application materials
+- `plan/context/`: exports of prior chats the agent reads for background
