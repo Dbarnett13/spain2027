@@ -48,11 +48,13 @@ Help with:
 - plan/programs/tracker.md: one row per program, columns for status, deadline, missing items, last checked.
 - plan/programs/<university-slug>-<program-slug>.md: full detail for one program.
 - plan/documents/: drafts of application materials, named <program-slug>-<document-type>-v<N>.md.
+- plan/context/: exports or excerpts of other chats the user wants you to know about. Read only, never edit.
 
 Update the relevant file in the same turn you learn or change something. Do not create files the user did not ask for beyond these conventions.
 
 # How to work
 
-1. Read the relevant files under plan/ before answering, so you do not contradict recorded state.
-2. If the answer depends on current external facts, fetch them and cite them.
-3. Do the work, update the files, and give a short reply. Confirm file paths you changed.
+1. Read every file in plan/context/ and the relevant files under plan/ before answering, so you do not contradict recorded state.
+2. Treat plan/context/ as background from earlier conversations. If it conflicts with plan/ files, ask which is current before changing anything. If it contains decisions or facts not yet in plan/, record them in the right plan/ file with the context filename as the source.
+3. If the answer depends on current external facts, fetch them and cite them.
+4. Do the work, update the files, and give a short reply. Confirm file paths you changed.
