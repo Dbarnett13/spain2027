@@ -2,6 +2,8 @@
 
 One line per decision, newest first. The agent appends here whenever the user decides something.
 
+- 2026-09-10: Project management table lives in Notion (Spain 2027 Project Plan), mirrored from the repo. Daily morning routine created; weekday routine removed.
+
 - 2026-09-09: ELISAVA confirmed by email that it does not know whether the Responsible AI program will run in 2027. User adds more Barcelona-based options.
 - 2026-09-09: ELISAVA 2026 intake deadline was September 8. Assume the 2027 deadline is about the same.
 - 2026-09-09: New workstream: secure client contracts extending into May 2027 and beyond, reduced rates acceptable, to show income consistency for the DNV.
