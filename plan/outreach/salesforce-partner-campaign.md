@@ -148,9 +148,18 @@ Bring: one-page capability sheet (English and Spanish), rate card, two anonymize
 - Who in the firm approves subcontractors?
 - Which clients or verticals are driving Agentforce and Data Cloud work?
 
-## Events during the trip
+## Events during the trip (researched 2026-09-11, search snippets only, live pages blocked)
 
-Check the four Barcelona Trailblazer community groups and any partner-hosted events for the trip window and add them to the itinerary. Verified events are logged in plan/trip/october-2026-barcelona.md once found.
+No Salesforce ecosystem event in Barcelona was found for October 2026. The Barcelona Trailblazer groups publish 3 to 6 weeks ahead and ran a joint all-groups meetup on 2025-10-28, so a late October 2026 joint meetup is plausible but unannounced. Re-check in early October: trailblazercommunitygroups.com/barcelona and trailhead.salesforce.com/trailblazer-community/meetings.
+
+| Event | Date | Venue | Relevance | Status |
+|---|---|---|---|---|
+| AI Congress Barcelona, 12th edition (CIDAI and Eurecat) | 2026-10-20 to 10-22, 08:30 to 14:00 | Auditori l'Illa, Av. Diagonal 547, next to the Salesforce office | Free. Not Salesforce specific, but partner and enterprise AI people attend. Register: aicongress.barcelona/en/congres/inscripcions/ | Confirmed by multiple sources |
+| MuleSoft Meetup Barcelona, hybrid | 2026-11-18 | Not stated | Closest Salesforce-family community event. meetups.mulesoft.com/barcelona | Date from snippet, unverified |
+| Barcelona Tech Job Fair Autumn 2026 | 2026-10-28, 18:00 to 21:00 | Hotel ILUNION Barcelona | Recruiting fair, low relevance | Confirmed |
+| Agentforce World Tour London | 2026-10-15 | ExCeL London | Nearest Salesforce first-party event in the window | Confirmed |
+
+Group leaders worth a LinkedIn touch: Nicholas Fiorendi (Schwarz Digits Spain, Developer Group Barcelona leader) and Alba Rivas (Salesforce, frequent co-organizer). Salesforce Barcelona office: L'Illa Diagonal offices, Av. Diagonal 545 to 575, 08028. It is a sales office and no public source shows it hosting community events. Omega CRM (Diagonal 177) and Seidor are the partners most likely to run autumn Barcelona events; check their event pages in early October.
 
 ## Logging
 
