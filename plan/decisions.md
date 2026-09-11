@@ -2,7 +2,8 @@
 
 One line per decision, newest first. The agent appends here whenever the user decides something.
 
-- 2026-09-10: Project management table lives in Notion (Spain 2027 Project Plan), mirrored from the repo. Daily morning routine created; weekday routine removed.
+- 2026-09-11: Never use Notion for this project. The Notion database created on 2026-09-10 was deleted at the user's request. The project table lives in the repo only.
+- 2026-09-10: Daily morning routine created; weekday routine removed.
 
 - 2026-09-09: ELISAVA confirmed by email that it does not know whether the Responsible AI program will run in 2027. User adds more Barcelona-based options.
 - 2026-09-09: ELISAVA 2026 intake deadline was September 8. Assume the 2027 deadline is about the same.

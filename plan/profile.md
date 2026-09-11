@@ -54,11 +54,6 @@ Source for everything below: plan/context/2026-09-08-claude-chat-transcripts.md 
 7. Program must be open to a 20-year senior professional, not built only for young graduates. Apply anyway where it is borderline (La Salle precedent). [1]
 8. Titulo propio is acceptable for the DNV track. Prefer official where possible because the post-study job-search permit requires an official degree. [1]
 
-## Shared project table (added 2026-09-10)
-
-- Notion database "Spain 2027 Project Plan": https://app.notion.com/p/1fe2872fe1794e5f9b03460f0c861c30. Data source collection://538a0b35-34d4-4b62-a644-f72f276d10ef. Mirrors plan/deadlines.md and workstream targets. The user edits statuses there; the agent syncs both ways.
-- The older "Project Spain 2027" Notion page (June 2026) holds a strategy document that predates several decisions: it assumes a joint LLC application with the spouse, an assured 24 percent Beckham rate, and La Salle HCI and IE as target programs. Treat plan/profile.md as current, not that page.
-
 ## Standing instructions from the user to any assistant
 
 - Answer only what is asked. No advice, motivation, or next steps unless asked. Short bullets. [1, 9]
