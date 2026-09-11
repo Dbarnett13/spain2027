@@ -45,7 +45,7 @@ Income
 - [ ] Log October deposits in the evidence log.
 
 Outreach
-- [ ] Send Salesforce partner outreach. Due 10-15.
+- [ ] Send Salesforce partner outreach: wave 1 by 09-19, wave 2 by 09-23, bumps through 09-30. Freeze meeting calendar 10-03.
 - [ ] Hold partner meetings during the trip. Log outcomes.
 
 Kindergarten

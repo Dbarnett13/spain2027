@@ -12,7 +12,8 @@ Confidence: confirmed = verified with the source on the date shown. assumed = in
 | 2026-09-30 | October trip dates fixed and flights booked | Trip | TARGET | assumed | This plan | Open |
 | 2026-09-30 | Verify which Spanish consulate covers Colorado | Immigration | TARGET | assumed | This plan | Open |
 | 2026-10-01 | Income evidence window opens: every month from here to filing must show consistent deposits at or above threshold | Income | RELATIVE | assumed | Chat 1: 3 to 6 months before filing | Open |
-| 2026-10-15 | Outreach sent to Salesforce partners in Barcelona, meetings requested for trip | Outreach | TARGET | assumed | This plan | Open |
+| 2026-09-23 | Outreach sent to all 49 Salesforce partners in Barcelona (wave 1 by 09-19, wave 2 by 09-23) | Outreach | TARGET | assumed | plan/outreach/salesforce-partner-campaign.md | Open |
+| 2026-10-03 | Partner meeting calendar frozen for the trip, 12 to 15 meetings confirmed | Outreach | TARGET | assumed | plan/outreach/salesforce-partner-campaign.md | Open |
 | 2026-10-01 | New EU pet certificate forms take effect; any dog travel after this date uses the new forms | Move | EXTERNAL | confirmed | APHIS via search, 2026-09-09 | Info |
 | 2026-10-23 | EU Business School Barcelona open day, 16:00 to 18:00 | Programs | EXTERNAL | confirmed | euruni.edu events page via search, 2026-09-09 | Open |
 | 2026-10 (dates TBD) | Barcelona trip: neighborhood, schools, kindergartens, agencies, partner meetings | Trip | TARGET | assumed | User, 2026-09-09 | Open |

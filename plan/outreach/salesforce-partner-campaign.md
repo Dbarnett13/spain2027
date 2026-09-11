@@ -14,7 +14,7 @@ Constraint: work for Spanish entities counts against the 20 percent cap on Spani
 
 | Metric | Target |
 |---|---|
-| Firms contacted | All firms on the tracker (21 now, plus any added by research) |
+| Firms contacted | All 49 firms on the tracker (12 in wave 1, 37 in wave 2) |
 | First touches sent | By 2026-09-25 |
 | Meetings booked before departure | 12 to 15 |
 | Meetings held during the 10 days | 10 to 12 (max 2 per day, keep 3 days meeting-free for family, schools, and neighborhoods) |
@@ -47,11 +47,11 @@ Stop the sequence at any reply. Never send more than three unanswered touches to
 | Date | Action |
 |---|---|
 | 2026-09-12 | Fix trip dates. Lock a meeting window: the 7 weekdays in Barcelona. |
-| 2026-09-12 to 09-16 | Fill named contacts for every firm on the tracker (LinkedIn Sales Navigator or free search, firm team pages, research file). Priority: VML The Cocktail, Omega CRM, NATEEVO, Next Force, Deloitte Digital, Cognizant Netcentric, Accenture Song, S4G, VISEO, Devoteam, NTS SEIDOR, Kaizen. |
+| 2026-09-12 to 09-16 | Fill named contacts for every firm on the tracker (LinkedIn search, firm team pages, research files). Wave 1 first: VML The Cocktail, Omega CRM, NATEEVO, Next Force, Deloitte Digital, Cognizant Netcentric, Accenture Song, S4G, VISEO, Devoteam, NTS SEIDOR, Kaizen. Named contacts already found for 12 wave 2 firms. |
 | 2026-09-15 | Ask US Salesforce contacts for Spain PAM intros. |
 | 2026-09-17 | Create a Calendly (or similar) page with the Barcelona window in CET, 30-minute slots, 2 per day max. |
-| 2026-09-18 to 09-19 | Send wave 1: top 12 firms, Message A plus LinkedIn Note L1. |
-| 2026-09-22 to 09-23 | Send wave 2: remaining firms. Bump wave 1 (Message B). |
+| 2026-09-18 to 09-19 | Send wave 1: 12 Marketing Cloud and Data Cloud firms, Message A plus LinkedIn Note L1. |
+| 2026-09-22 to 09-23 | Send wave 2: 37 remaining firms, MC agencies first, then SIs with Barcelona hubs. Bump wave 1 (Message B). |
 | 2026-09-26 | Bump wave 2. Last touch wave 1 (Message C). |
 | 2026-09-30 | Last touch wave 2. Second contacts at silent priority firms. |
 | 2026-10-03 | Freeze the meeting calendar. Confirm each meeting with address, floor, and mobile number. |

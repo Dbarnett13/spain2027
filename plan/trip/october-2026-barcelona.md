@@ -20,7 +20,7 @@ Status: tentative. Dates not fixed. About 1.5 weeks: DEN to NYC (4 days), NYC to
 | Request admissions meetings: ELISAVA, EU Business School, GBSB, UPF-BSM, BTS, TBS, IED, plus EAE, ESIC, La Salle if their syllabus passes | 2026-09-30 | Open |
 | Shortlist 4 to 6 kindergartens or schools and request visits | 2026-10-05 | Open |
 | Request meetings with 2 to 3 relocation agencies or immigration lawyers | 2026-10-05 | Open |
-| Send Salesforce partner outreach and confirm meetings | 2026-10-15 | Open |
+| Send Salesforce partner outreach (wave 1 by 09-19, wave 2 by 09-23), freeze meeting calendar 10-03. Campaign: plan/outreach/salesforce-partner-campaign.md | 2026-10-03 | Open |
 | Build a day-by-day itinerary with addresses | Trip minus 7 days | Open |
 | Prepare question lists (below) | Trip minus 7 days | Open |
 
