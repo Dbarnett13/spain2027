@@ -16,7 +16,7 @@ Confidence: confirmed = verified with the source on the date shown. assumed = in
 | 2026-10-03 | Partner meeting calendar frozen for the trip, 12 to 15 meetings confirmed | Outreach | TARGET | assumed | plan/outreach/salesforce-partner-campaign.md | Open |
 | 2026-10-01 | New EU pet certificate forms take effect; any dog travel after this date uses the new forms | Move | EXTERNAL | confirmed | APHIS via search, 2026-09-09 | Info |
 | 2026-10-23 | EU Business School Barcelona open day, 16:00 to 18:00 | Programs | EXTERNAL | confirmed | euruni.edu events page via search, 2026-09-09 | Open |
-| 2026-10 (dates TBD) | Barcelona trip: neighborhood, schools, kindergartens, agencies, partner meetings | Trip | TARGET | assumed | User, 2026-09-09 | Open |
+| 2026-10-12 to 10-21 | Barcelona trip: neighborhood, schools, kindergartens, agencies, partner meetings. Meeting days 10-13 to 10-20 | Trip | FIXED | confirmed | User, 2026-09-15 | Open |
 | 2026-10-31 | Spanish milestone: Language Transfer complete, 1200 words, 20-minute tutor conversation | Spanish | TARGET | confirmed | Spanish plan | Open |
 | 2026-10-31 | All shortlisted programs contacted; 2027 intake status and deadline recorded | Programs | TARGET | assumed | This plan | Open |
 | 2026-11-15 | Tax advisor consult done; Beckham path decided (administrator route or standard autonomo) | Tax | TARGET | assumed | This plan | Open |

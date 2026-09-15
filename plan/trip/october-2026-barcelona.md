@@ -1,6 +1,6 @@
 # October 2026 Barcelona trip
 
-Status: tentative. Dates not fixed. About 1.5 weeks: DEN to NYC (4 days), NYC to BCN (about 10 days), 3 travelers (chat 13). Added as a workstream 2026-09-09.
+Status: dates fixed 2026-09-15. Barcelona 2026-10-12 to 2026-10-21. Viable meeting days 10-13 to 10-20. DEN to NYC (4 days) before, 3 travelers (chat 13). Added as a workstream 2026-09-09.
 
 ## Goals
 
