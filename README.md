@@ -2,6 +2,10 @@
 
 Planning workspace for a 2027 relocation to Spain and graduate program applications.
 
+## Rules
+
+`CLAUDE.md` holds standing rules for every session. Read it first.
+
 ## Agent
 
 `.claude/agents/relocation-grad-advisor.md` defines the `relocation-grad-advisor` subagent. Claude Code picks it up automatically for relocation and application tasks, or invoke it directly by asking for the relocation-grad-advisor agent.
@@ -15,7 +19,8 @@ Planning workspace for a 2027 relocation to Spain and graduate program applicati
 - `plan/context/`: exports of prior chats the agent reads for background
 - `plan/deadlines.md`: every dated item, with confidence and source
 - `plan/monthly-plan.md`, `plan/daily-template.md`, `plan/daily/`: monthly and daily action items
-- `plan/workstreams/`, `plan/trip/`, `plan/outreach/`: income continuity, October 2026 trip, Salesforce partner outreach
+- `plan/workstreams/`, `plan/trip/`: income continuity, kindergarten, October 2026 trip
+- `plan/outreach/`: partner campaign (`salesforce-partner-campaign.md`), target lists for Barcelona multinationals, US, and North Europe, Salesforce employee contacts, Barcelona event calendar
 - `plan/decisions.md`: decision log
 
 ## Commands
