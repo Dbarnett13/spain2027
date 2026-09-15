@@ -159,6 +159,8 @@ No Salesforce ecosystem event in Barcelona was found for October 2026. The Barce
 | Barcelona Tech Job Fair Autumn 2026 | 2026-10-28, 18:00 to 21:00 | Hotel ILUNION Barcelona | Recruiting fair, low relevance | Confirmed |
 | Agentforce World Tour London | 2026-10-15 | ExCeL London | Nearest Salesforce first-party event in the window | Confirmed |
 
+Full 12-month calendar: plan/outreach/barcelona-events-calendar.md.
+
 Group leaders worth a LinkedIn touch: Nicholas Fiorendi (Schwarz Digits Spain, Developer Group Barcelona leader) and Alba Rivas (Salesforce, frequent co-organizer). Salesforce Barcelona office: L'Illa Diagonal offices, Av. Diagonal 545 to 575, 08028. It is a sales office and no public source shows it hosting community events. Omega CRM (Diagonal 177) and Seidor are the partners most likely to run autumn Barcelona events; check their event pages in early October.
 
 ## Parallel track: Salesforce employees in Barcelona (added 2026-09-15)
