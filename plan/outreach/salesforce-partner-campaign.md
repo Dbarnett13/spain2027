@@ -4,6 +4,7 @@ Purpose: get hired by non-Spanish businesses and paid in USD, EUR, or GBP from o
 
 1. Multinational Salesforce partners with a Barcelona presence, contracted through their US, UK, French, Dutch, German, or other non-Spanish entity. 26 firms, wave 1 in plan/outreach/salesforce-partners.md. Met in person during the trip.
 2. UK, Irish, Dutch, Belgian, German, Swiss, and Nordic Salesforce partners with no Barcelona office. Met by video before and after the trip. List in plan/outreach/north-europe-partners.md.
+3. US Salesforce partners, paid in USD. Pitch: senior Marketing Cloud and Data Cloud capacity in European hours for their EMEA clients, or early US coverage. Met by video. List in plan/outreach/us-partners.md.
 
 Spanish-only firms are parked. Not a target.
 
@@ -21,7 +22,7 @@ Spanish-only firms are parked. Not a target.
 | First touches sent | By 2026-09-25 |
 | In-person meetings booked before departure | 8 to 12 |
 | In-person meetings held during the trip | 8 to 12 across 6 meeting days (max 2 per day) |
-| Video calls with North Europe partners | 10 by 10-31 |
+| Video calls with North Europe and US partners | 15 by 10-31 |
 | Follow-ups with a concrete next step | Every meeting, within 24 hours |
 
 ## Channels, in order of use
@@ -98,6 +99,24 @@ Would you have 20 minutes on a call in the next two weeks? Calendar: [link].
 Thanks,
 Daniel
 [phone, WhatsApp]
+[LinkedIn URL]
+superstoke.io
+
+## Message A3: first touch (email), US partners
+
+Subject: Senior Marketing Cloud and Data Cloud architect covering European hours from May 2027
+
+Hi [first name],
+
+I run Superstoke, a Denver consultancy delivering Salesforce Marketing Cloud, Marketing Cloud Personalization, and Data Cloud for enterprise clients. Twenty years in marketing technology, and I have built MarTech practices past 20 million dollars.
+
+From May 2027 I will be working from Barcelona on European hours, still under my US company and US contracts. For [firm] that means a senior architect awake for your EMEA clients, or online from 2 am Eastern for US programs that need early coverage, without adding headcount.
+
+Would you have 20 minutes in the next two weeks? Calendar: [link].
+
+Thanks,
+Daniel
+[phone]
 [LinkedIn URL]
 superstoke.io
 
