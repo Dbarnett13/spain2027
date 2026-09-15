@@ -171,6 +171,8 @@ Who to reach, in priority order:
 3. Barcelona-based Solution Engineers and the Barcelona site lead.
 4. Iberia leadership (Natalia Escobedo, named head of Salesforce Iberia September 2026) for a single top-down intro request, only via a warm US contact.
 
+First action: if Superstoke already has a Salesforce partner account, ask the US Partner Advisor or PAM for an intro to the Iberia Alliances team this week. That one email outranks every cold touch below.
+
 Ask, in one sentence: a 20-minute coffee at L'Illa during 10-13 to 10-20, plus an intro to the Spain partner team.
 
 Sequence: same as the partner sequence (Message A on D0, LinkedIn note same day, bump D4, last touch D8). Send with wave 1 on 09-18. Use Message S below.
