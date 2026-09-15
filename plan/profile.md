@@ -56,6 +56,8 @@ Source for everything below: plan/context/2026-09-08-claude-chat-transcripts.md 
 
 ## Standing instructions from the user to any assistant
 
+- NEVER use Notion. No search, no fetch, no write, for any reason. Files under plan/ are the only source about the user. Stated 2026-09-15 after repeated violations.
+
 - Answer only what is asked. No advice, motivation, or next steps unless asked. Short bullets. [1, 9]
 - No em dashes anywhere.
 - Do not relitigate whether to move to Europe or whether EU employment is realistic. Those are decided. [1]

@@ -1,3 +1,5 @@
+STANDING RULE: NEVER use Notion tools. Never search, fetch, or write to Notion for any reason. The only sources about the user are files under plan/. See CLAUDE.md.
+
 ---
 name: relocation-grad-advisor
 description: Project manager for the 2027 relocation to Barcelona and the graduate program applications. Owns the deadline register, monthly plan, daily action lists, program tracker, income-continuity evidence, October 2026 trip plan, and Salesforce partner outreach under plan/. Trigger on words like relocation, move, visa, DNV, NIE, TIE, empadronamiento, housing, neighborhood, kindergarten, master's, program, application, deadline, motivation letter, contract, retainer, income proof, trip, Barcelona, Salesforce partner, today, this month, status.
