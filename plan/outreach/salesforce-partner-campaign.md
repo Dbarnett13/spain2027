@@ -1,23 +1,27 @@
 # Salesforce partner campaign, Barcelona, October 2026
 
-Purpose: meet every Salesforce partner with a Barcelona presence during the 10-day Barcelona leg of the October 2026 trip, to open partnering conversations (overflow, specialist, white-label, referral) for after the May 2027 move. Target list and tracker live in plan/outreach/salesforce-partners.md. Added 2026-09-11.
+Purpose: get hired by non-Spanish businesses and paid in USD, EUR, or GBP from outside Spain, while living in Barcelona from May 2027. The visa needs at least 80 percent of revenue from outside Spain, so Spanish entities are not the target. Two target groups (refocused 2026-09-15):
 
-Constraint: work for Spanish entities counts against the 20 percent cap on Spanish-source revenue for a self-employed DNV holder. Frame every conversation as capacity partnership, not employment. See plan/workstreams/income-continuity.md.
+1. Multinational Salesforce partners with a Barcelona presence, contracted through their US, UK, French, Dutch, German, or other non-Spanish entity. 26 firms, wave 1 in plan/outreach/salesforce-partners.md. Met in person during the trip.
+2. UK, Irish, Dutch, Belgian, German, Swiss, and Nordic Salesforce partners with no Barcelona office. Met by video before and after the trip. List in plan/outreach/north-europe-partners.md.
+
+Spanish-only firms are parked. Not a target.
 
 ## Offer (what you are bringing to the table)
 
-- Senior Marketing Cloud, Marketing Cloud Personalization, and Data Cloud delivery capacity, US-enterprise references, available in CET hours from May 2027.
-- Overflow and specialist staffing on their projects, white-label under their brand, or referral of their teams into US opportunities.
-- Superstoke remains a US entity. Spanish revenue stays under 20 percent by design, so the ask is a small number of engagements, not a full book.
+- Senior Marketing Cloud, Marketing Cloud Personalization, and Data Cloud architect with 20 years and US enterprise references, working CET hours from May 2027, contracted through Superstoke LLC (US). No Spanish payroll, no Spanish entity, no visa sponsorship needed.
+- Overflow, specialist, or white-label capacity for their European clients, and US-hours coverage for their US clients from the same person.
+- Ask: a subcontract or associate agreement with their non-Spanish entity, day rate or retainer, remote.
 
 ## Targets and pace
 
 | Metric | Target |
 |---|---|
-| Firms contacted | All 49 firms on the tracker (12 in wave 1, 37 in wave 2) |
+| Firms contacted | 26 multinationals with Barcelona presence, plus the North Europe list |
 | First touches sent | By 2026-09-25 |
-| Meetings booked before departure | 12 to 15 |
-| Meetings held during the trip | 10 to 12 across 6 meeting days (max 2 per day) |
+| In-person meetings booked before departure | 8 to 12 |
+| In-person meetings held during the trip | 8 to 12 across 6 meeting days (max 2 per day) |
+| Video calls with North Europe partners | 10 by 10-31 |
 | Follow-ups with a concrete next step | Every meeting, within 24 hours |
 
 ## Channels, in order of use
@@ -61,17 +65,17 @@ Stop the sequence at any reply. Never send more than three unanswered touches to
 | 2026-11-01 | Review: who is warm, what pilot or referral was agreed, next touch dates. |
 | 2027-01 | Message E to warm firms. |
 
-## Message A: first touch (email)
+## Message A: first touch (email), multinationals with Barcelona presence
 
-Subject: US Marketing Cloud consultancy relocating to Barcelona, 30 minutes in October?
+Subject: Senior Marketing Cloud and Data Cloud architect, CET hours from May 2027, 30 minutes in Barcelona?
 
 Hola [first name],
 
-I run Superstoke, a US consultancy that delivers Salesforce Marketing Cloud, Marketing Cloud Personalization, and Data Cloud programs for enterprise clients. Twenty years in marketing technology, and I have built MarTech practices past 20 million dollars in revenue.
+I run Superstoke, a US consultancy delivering Salesforce Marketing Cloud, Marketing Cloud Personalization, and Data Cloud for enterprise clients. Twenty years in marketing technology, and I have built MarTech practices past 20 million dollars.
 
-I am moving to Barcelona in May 2027 and keeping my US client base. I would like to explore whether [firm] could use senior overflow or specialist capacity on Marketing Cloud and Data Cloud work, and whether there are US opportunities where I could bring [firm] in.
+From May 2027 I will be based in Barcelona, working European hours, and contracting through my US company. I would like to explore [firm] using me as senior overflow or white-label capacity on Marketing Cloud and Data Cloud work, for your European clients or for US clients who need coverage in both time zones.
 
-I am in Barcelona from [date] to [date]. Would [day, time] or [day, time] work for 30 minutes at your office? If easier, here is my calendar: [link].
+I am in Barcelona 12 to 21 October. Would [day, time] or [day, time] work for 30 minutes? Calendar: [link]. If the right person sits in [London, Amsterdam, Paris, New York], I am glad to take that as a call instead.
 
 Thanks,
 Daniel
@@ -79,24 +83,27 @@ Daniel
 [LinkedIn URL]
 superstoke.io
 
-Spanish version for firms whose site is Spanish-only:
+## Message A2: first touch (email), North Europe partners with no Barcelona office
 
-Asunto: Consultora estadounidense de Marketing Cloud se traslada a Barcelona, 30 minutos en octubre?
+Subject: Senior Marketing Cloud and Data Cloud architect available in CET hours, US contract
 
-Hola [nombre],
+Hi [first name],
 
-Dirijo Superstoke, una consultora estadounidense especializada en Salesforce Marketing Cloud, Marketing Cloud Personalization y Data Cloud para clientes enterprise. Veinte años en marketing technology y experiencia escalando practicas de MarTech por encima de 20 millones de dolares.
+I run Superstoke, a US consultancy delivering Salesforce Marketing Cloud, Marketing Cloud Personalization, and Data Cloud for enterprise clients. Twenty years in marketing technology, and I have built MarTech practices past 20 million dollars.
 
-Me traslado a Barcelona en mayo de 2027 y mantengo mi cartera de clientes en Estados Unidos. Me gustaria explorar si [empresa] podria aprovechar capacidad senior de refuerzo o especialista en Marketing Cloud y Data Cloud, y si hay oportunidades en Estados Unidos donde pueda contar con [empresa].
+From May 2027 I will be based in Barcelona, working [London, Amsterdam, Berlin] hours, contracted through my US company. I am looking for two or three partners who want senior Marketing Cloud and Data Cloud overflow or white-label capacity without adding headcount.
 
-Estare en Barcelona del [fecha] al [fecha]. Os iria bien [dia, hora] o [dia, hora] para 30 minutos en vuestra oficina? Si es mas comodo, aqui teneis mi calendario: [enlace].
+Would you have 20 minutes on a call in the next two weeks? Calendar: [link].
 
-Gracias,
+Thanks,
 Daniel
+[phone, WhatsApp]
+[LinkedIn URL]
+superstoke.io
 
 ## Note L1: LinkedIn connection request (300 characters max)
 
-Hi [first name], US Salesforce Marketing Cloud and Data Cloud consultant relocating to Barcelona in May 2027. In town [dates] and would value 30 minutes with [firm] about partnering on MC and Data Cloud work. Sent a note by email as well. Daniel
+Hi [first name], senior Salesforce Marketing Cloud and Data Cloud architect, US company, based in Barcelona from May 2027 working CET hours. Would value 20 minutes with [firm] about overflow or white-label capacity. Sent a note by email as well. Daniel
 
 ## Message B: bump (D4)
 
