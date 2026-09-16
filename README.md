@@ -18,6 +18,10 @@ Planning workspace for a 2027 relocation to Spain and graduate program applicati
 - `plan/workstreams/`, `plan/trip/`, `plan/outreach/`: income continuity, October 2026 trip, Salesforce partner outreach
 - `plan/decisions.md`: decision log
 
+## Spreadsheet
+
+`plan/spain2027-plan.xlsx` is generated from the plan files by `scripts/build_plan_xlsx.py`. Import it into Google Sheets (File, Import) or open in Excel. Sheets: Summary, Deadlines, Monthly actions, Programs, Income log, How to use.
+
 ## Commands
 
 `/today`, `/month`, `/deadlines`, `/status` in Claude Code, defined in `.claude/commands/`.
