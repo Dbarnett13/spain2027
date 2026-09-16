@@ -20,7 +20,7 @@ Planning workspace for a 2027 relocation to Spain and graduate program applicati
 
 ## Spreadsheet
 
-`plan/spain2027-plan.xlsx` is generated from the plan files by `scripts/build_plan_xlsx.py`. Import it into Google Sheets (File, Import) or open in Excel. Sheets: Summary, Deadlines, Monthly actions, Programs, Income log, How to use.
+Live copy: Google Sheet "Spain 2027 Project Plan" in the Drive folder "Spain 2027". `plan/spain2027-plan.xlsx` is generated from the plan files by `scripts/build_plan_xlsx.py` and uploaded there. `scripts/build_plan_ics.py` builds `plan/spain2027-deadlines.ics` for Google Calendar. Sheets: Summary, Deadlines, Monthly actions, Programs, Income log, How to use.
 
 ## Commands
 

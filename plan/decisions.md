@@ -2,6 +2,7 @@
 
 One line per decision, newest first. The agent appends here whenever the user decides something.
 
+- 2026-09-16: Google Drive connected. Plan lives in Google Sheet "Spain 2027 Project Plan" in Drive folder "Spain 2027". Deadline reminders via calendar file imported into Google Calendar.
 - 2026-09-16: The user will not enable Claude notifications. Morning routine disabled. The plan is worked in Google Sheets via plan/spain2027-plan.xlsx, regenerated from the repo.
 
 - 2026-09-11: Never use Notion for this project. The Notion database created on 2026-09-10 was deleted at the user's request. The project table lives in the repo only.
